@@ -3,7 +3,6 @@
 # dependencies
 /node_modules
 /.pnp
-/__pycache__
 .pnp.js
 
 # testing
@@ -18,7 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.sqlite3
+db.sqlite3
 *.pyc
 
 npm-debug.log*
