@@ -1,5 +1,7 @@
 # django_todo_react
 
+work in progress
+
 simple django + react todo app  
 backend runs on port 8000  
 frontend runs on port 3000  
